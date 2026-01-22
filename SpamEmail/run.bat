@@ -1,0 +1,2 @@
+python SpamFilter.py
+pause
