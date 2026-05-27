@@ -8,7 +8,7 @@ from tkinter import simpledialog
 import matplotlib.pyplot as plt
 import cv2
 import os
-from keras.utils.np_utils import to_categorical
+from tensorflow.keras.utils import to_categorical
 from keras.models import Sequential
 from keras.layers import Dense, Dropout, Flatten, Activation
 from keras.models import model_from_json
