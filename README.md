@@ -20,9 +20,9 @@
 ![Random Forest & CNN](screenshots/6.png)
 
 ### Comparison Graphs
-![Accuracy Graph](screenshots/7.png)
-![Recall Graph](screenshots/8.png)
-![Precision Graph](screenshots/9.png)
+![Accuracy Graph](screenshots/Accuracy.png)
+![Recall Graph](screenshots/precision.png)
+![Precision Graph](screenshots/Recall.png)
 
 ---
 
