@@ -1,0 +1,42 @@
+# Virtual environments
+venv/
+env/
+.env/
+ENV/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Saved models
+models/*.pkl
+models/*.joblib
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Batch/venv scripts
+Scripts/
+activate
+activate.bat
+deactivate.bat
+Activate.ps1
+
+# Logs
+*.log
+
+# Word/Excel files
+*.docx
+*.xlsx
