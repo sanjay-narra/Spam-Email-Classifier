@@ -11,19 +11,36 @@ A machine learning system that classifies emails as **Spam** or **Ham (Not Spam)
 
 ## 🖼️ Screenshots
 
-| Main Application | Dataset & Preprocessing |
-|:---:|:---:|
-| ![Main GUI](screenshots/1.png) | ![Dataset Upload](screenshots/2.png) |
-| ![Preprocessing](screenshots/3.png) | |
+### 🖥️ Main Application
+<p align="center">
+  <img src="screenshots/1.png" width="80%" alt="Main Application"/>
+</p>
 
-| Algorithm Results | |
-|:---:|:---:|
-| ![KNN, Naive Bayes & MLP](screenshots/4.png) | ![SVM, Decision Tree & AdaBoost](screenshots/5.png) |
-| ![Random Forest & CNN](screenshots/6.png) | |
+### 📁 Dataset Upload & Preprocessing
+<p align="center">
+  <img src="screenshots/2.png" width="48%" alt="Dataset Upload"/>
+  &nbsp;
+  <img src="screenshots/3.png" width="48%" alt="Preprocessing"/>
+</p>
 
-| Comparison Graphs | | |
-|:---:|:---:|:---:|
-| ![Accuracy](screenshots/Accuracy.png) | ![Recall](screenshots/Recall.png) | ![Precision](screenshots/precision.png) |
+### 🤖 Algorithm Results
+<p align="center">
+  <img src="screenshots/4.png" width="48%" alt="KNN, Naive Bayes & MLP"/>
+  &nbsp;
+  <img src="screenshots/5.png" width="48%" alt="SVM, Decision Tree & AdaBoost"/>
+</p>
+<p align="center">
+  <img src="screenshots/6.png" width="48%" alt="Random Forest & CNN"/>
+</p>
+
+### 📊 Comparison Graphs
+<p align="center">
+  <img src="screenshots/Accuracy.png" width="32%" alt="Accuracy Comparison"/>
+  &nbsp;
+  <img src="screenshots/Recall.png" width="32%" alt="Recall Comparison"/>
+  &nbsp;
+  <img src="screenshots/precision.png" width="32%" alt="Precision Comparison"/>
+</p>
 
 ---
 
