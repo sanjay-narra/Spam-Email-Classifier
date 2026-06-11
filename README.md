@@ -1,9 +1,9 @@
 # 📧 Spam Email Classification using Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-orange?logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-red?logo=keras&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge&logo=scikit-learn)
+![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 ## 🖼️ Screenshots
 
@@ -21,8 +21,8 @@
 
 ### Comparison Graphs
 ![Accuracy Graph](screenshots/Accuracy.png)
-![Recall Graph](screenshots/precision.png)
-![Precision Graph](screenshots/Recall.png)
+![Recall Graph](screenshots/Recall.png)
+![Precision Graph](screenshots/precision.png)
 
 ---
 
@@ -108,7 +108,7 @@ Graphs are generated to compare all algorithms side by side.
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/Sanjay284-beep/Spam-Email-Classifier.git
+git clone https://github.com/sanjay-narra/Spam-Email-Classifier.git
 cd Spam-Email-Classifier
 ```
 
@@ -153,7 +153,6 @@ python SpamFilter.py
 ---
 
 ## 👨‍💻 Author
-
-**Narra Sanjay**
-B.Tech Computer Science Engineering (2026)
-[GitHub](https://github.com/Sanjay284-beep/Spam-Email-Classifier)
+**Narra Sanjay** — B.Tech Computer Science Engineering (2026)  
+- 💻 GitHub: [github.com/sanjay-narra](https://github.com/sanjay-narra/Spam-Email-Classifier)  
+- 📧 Email: narrasanjayigy7@gmail.com  
