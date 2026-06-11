@@ -118,6 +118,28 @@ This system takes the [SpamBase dataset](https://archive.ics.uci.edu/ml/datasets
 
 ---
 
+## 📁 Project Structure
+
+```
+Spam-Email-Classifier/
+├── SpamFilter.py               # Main application entry point & GUI
+├── spambase.data               # SpamBase dataset (UCI)
+├── requirements.txt            # Python dependencies
+├── screenshots/                # App screenshots for README
+│   ├── 1.png                   # Main interface
+│   ├── 2.png                   # Dataset upload
+│   ├── 3.png                   # Preprocessing
+│   ├── 4.png                   # KNN, Naive Bayes & MLP results
+│   ├── 5.png                   # SVM, Decision Tree & AdaBoost results
+│   ├── 6.png                   # Random Forest & CNN results
+│   ├── Accuracy.png            # Accuracy comparison graph
+│   ├── Recall.png              # Recall comparison graph
+│   └── precision.png           # Precision comparison graph
+└── README.md
+```
+
+---
+
 ## ▶️ Getting Started
 
 ```bash
